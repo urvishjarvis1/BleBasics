@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxBLEDemo</string>
+    <string name="startscanning">startScanning</string>
+</resources>
